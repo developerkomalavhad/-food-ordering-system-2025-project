@@ -29,3 +29,21 @@ This project demonstrates **front-end development skills** using HTML and CSS.
 ---
 
 ## 📁 Project Structure
+Online-Food-Ordering-System/
+│
+├── index.html # Home page
+├── menu.html # Menu page listing all food items
+├── order.html # Order page with cart and confirmation
+├── css/
+│ └── style.css # Stylesheet for all pages
+├── images/ # All food images
+├── js/ # Optional JavaScript files (if any)
+└── README.md # Project documentation
+Use clear folder and file names.
+
+Add short comment after each file/folder explaining purpose.
+
+Use tree-like structure (│, ├──, └──) for readability.
+
+Keep root folder name = project name.
+
